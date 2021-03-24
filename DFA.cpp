@@ -9,6 +9,7 @@
 		int final[10];		//array of final states
 };*/
 
+
 int m;				//no of states
 int n;				//no of symbols
 int delta[10][10];	//transition table

@@ -33,6 +33,7 @@ int main()
 	for (i=0;i<f;i++)
 		frame[i]=-1;
 
+	
 	for (i=0;i<14;i++)
 	{
 		

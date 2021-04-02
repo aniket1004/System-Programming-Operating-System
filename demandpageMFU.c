@@ -7,6 +7,7 @@ struct frames
 }frame[30];
 int f=0;
 
+
 int find_page(int fno)
 {
 	int i=0;

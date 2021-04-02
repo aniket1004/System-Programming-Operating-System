@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 
+
 int m=0,n=0;
 void Safty_Algo(int avail[m],int A[n][m],int need[n][m],int finish[n]);
 void Accept_matrix(int A[n][m],int max[n][m],int avail[m])

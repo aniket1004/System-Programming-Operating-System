@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 
+
 int mem[1000];
 int pc,lc,REG[4],cc[6];
 

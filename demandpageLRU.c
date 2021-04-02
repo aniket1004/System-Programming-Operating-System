@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int f=0;
 int getPos(int arr[],int frame[],int pos)
 {

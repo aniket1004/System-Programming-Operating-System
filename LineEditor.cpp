@@ -12,7 +12,6 @@ typedef struct node
 PNODE head,last;
 
 
-
 void readBuff (PNODE head,char *filename)
 {
 	NODE *temp=NULL;
